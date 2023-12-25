@@ -1,6 +1,6 @@
 ## MUICT Programming Classes
 
-TBD.
+This organization contains lab exercises and projects for undergraduate MUICT students for different courses.
 
 <!--
 
