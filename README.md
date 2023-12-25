@@ -1,1 +1,0 @@
-# MUICT Programming
